@@ -45,7 +45,8 @@ Al momento de comparar los resultados, llegamos a la conclusión de que el valor
 
 ![Tabla](https://github.com/AlexMP98/Laboratorio-N-3/blob/main/Imagenes/error.png)    
 
-**5. VIDEO**
+**5. VIDEO**    
+Link del video: https://youtu.be/f8U21YWlsq8  
 
 **6. CONCLUSIONES**     
 
