@@ -4,9 +4,15 @@
 
 **1. OBJETIVOS**
 
-_Objetivo General_
+_Objetivo General_    
 
-_Objetivos Específicos_
+Comprobar experimental y analiticamente el funcionamiento y procedimiento del metodo de análisis de nodos.    
+
+_Objetivos Específicos_    
+
+* Comprender el método de análisis de nodos y poder establecer una relación entre el uso de la Ley de Ohm y las Leyes de Kirchhoff con ésta, además de los conceptos básicos del análisis de circuitos.    
+* Aprender a medir los voltajes de un nodo de un circuito eléctrico armado en un simulador.    
+* Comparar los valores de los cálculos obtenidos analíticamente  con los valores de medición de voltaje de un nodo del circuito.
 
 **2. MARCO TEÓRICO**
 
@@ -41,6 +47,13 @@ Al momento de comparar los resultados, llegamos a la conclusión de que el valor
 
 **5. VIDEO**
 
-**6. CONCLUSIONES**
+**6. CONCLUSIONES**     
+
+* Al momento de comparar los valores de las mediciones con los valores analíticos obtenidos, llegamos a la conclusión de que en cada nodo del circuito tiene un valor diferente de voltaje cumpliéndose así la ley de corrientes de Kirchof, donde indica que las sumatoria de las corrientes de ese nodo es igual a cero o también de que las corrientes que entran al nodo son iguales a las corrientes que salen del nodo.   
+* Antes de plantear las ecuaciones de cada nodo, es importante determinar el sentido de la corriente ya que así resulta más fácil al momento de analizar el nodo y obtener las ecuaciones.   
+* Se pudieron resolver y aplicar los cálculos gracias al conocimiento sobre el tema de la ley de Ohm, ya que al momento de tener las ecuaciones de las corrientes de cada nodo, aplicamos la ley de ohm para que estén en función del voltaje y así podemos hallar el voltaje que hay en cada nodo del circuito eléctrico.
 
 **7. BIBLIOGRAFÍA**
+Boylestad, R. 2011. Introducción al Análisis de Circuitos.2da. Edición. Pearson.    
+
+Alexander.[alexanderitc].(2019,Octumbre,29).Análisis de nodos - Circuito con dos fuentes de voltaje DC[Archivo de video].Recuperado de: https://www.youtube.com/watch?v=_Xd9LYtJbfw 
